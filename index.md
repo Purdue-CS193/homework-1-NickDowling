@@ -12,6 +12,8 @@ Hello World!
 ~Nick Dowling~
 ```
 
+# Hello 1
+## Hello 2
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
